@@ -1,3 +1,5 @@
+![Sunlit Skills Logo](https://github.com/antth-Luca/ModSunlitSkills/blob/main/sunlit_skills-1.0/src/main/resources/logo.png)
+
 # ModSunlitSkills
 
 A mod that brings out the skill tree for [Pufferfish’s Skills](https://www.curseforge.com/minecraft/mc-mods/puffish-skills) from the [Society: Sunlit Valley](https://www.curseforge.com/minecraft/modpacks/society-sunlit-valley).
