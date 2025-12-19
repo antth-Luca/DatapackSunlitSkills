@@ -1,0 +1,255 @@
+{
+	"ranged+2": {
+		"title": "+2 Ranged Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:ranged_damage",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "wa17r9wrc3gcahgf"
+		}
+	},
+	"protection+1": {
+		"title": "+I Protection",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:resistance",
+					"value": 0.16,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "6mulmgp0xn480zw2"
+		}
+	},
+	"looting+1": {
+		"title": "+I Looting",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "chest"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additional_attributes:looting",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ttdgy4vzkjaz8vmd"
+		}
+	},
+	"fence": {
+		"title": "Fence",
+		"description": "🗡 Receive 50% purchasing power",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "emerald"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "give @s minecraft:emerald 6"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "23pt1ukk292an6ks"
+		}
+	},
+	"quick_feet": {
+		"title": "Quick Feet",
+		"description": "+20% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "n9yly8l7u15g2kv8"
+		}
+	},
+	"steadfast": {
+		"title": "Steadfast",
+		"description": "+2% Healing",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.02,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "63cxk7wvw3u91e0p"
+		}
+	},
+	"looting_tycoon": {
+		"title": "Looting Tycoon",
+		"description": "🗡 Receive 100% purchasing power",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "emerald_block"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "give @s minecraft:emerald 6"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "99z0woo874515ro5"
+		}
+	},
+	"relic_hunter": {
+		"title": "Relic Hunter",
+		"description": "Even relic hunters need luck (+0.25 Luck)",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.luck",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "zn5kuuottmq1q4wj"
+		}
+	},
+	"artifact_hunter": {
+		"title": "Artifact Hunter",
+		"description": "For more artifact troves: +I Looting",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "chest"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additional_attributes:looting",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ta7wsjv07kk0o0vu"
+		}
+	},
+	"stuffed": {
+		"title": "Stuffed",
+		"description": "+10 Health",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 10,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "mbb8d68s3u0h5els"
+		}
+	}
+}

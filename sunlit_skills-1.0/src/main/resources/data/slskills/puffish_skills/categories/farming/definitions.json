@@ -1,0 +1,223 @@
+{
+	"axe_efficiency+1": {
+		"title": "+I Axe Efficiency",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_axe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:axe_speed",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "k9o96mdyz9gx9ict"
+		}
+	},
+	"shovel_efficiency+1": {
+		"title": "+I Shovel Efficiency",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_shovel"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:shovel_speed",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "2npq2uh7utzfxkyc"
+		}
+	},
+	"shovel_efficiency+2": {
+		"title": "+II Shovel Efficiency",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_shovel"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:shovel_speed",
+					"value": 3.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "2npq2uh7utzfxkyc"
+		}
+	},
+	"speed+5%": {
+		"title": "+5% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "i6ocz4xgr91n7i64"
+		}
+	},
+	"tiller": {
+		"title": "Tiller",
+		"description": "🔱 Receive 15% purchasing power",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "emerald"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "give @s minecraft:emerald 2"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "gvvppewamb3gkgby"
+		}
+	},
+	"soil_inspector": {
+		"title": "Soil Inspector",
+		"description": "I think these plants need fertilizer",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bone_meal"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "give @s minecraft:bone_block 16"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "c3ldbu7uzjke67uy"
+		}
+	},
+	"artful_tycoon": {
+		"title": "Artful Tycoon",
+		"description": "✎ Receive 80% purchasing power",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "emerald_block"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "give @s minecraft:emerald 12"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "1sfbw7dtmkx75v6p"
+		}
+	},
+	"rancher": {
+		"title": "Rancher",
+		"description": "Crops drop double outputs when manually harvesting",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "torchflower_seeds"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additional_attributes:harvest",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "29fmplz3hpjk29um"
+		}
+	},
+	"tree_whisperer": {
+		"title": "Tree Whisperer",
+		"description": "Crops drop double outputs when manually harvesting",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "golden_apple"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additional_attributes:harvest",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "6hrxgczcxydx48wr"
+		}
+	}
+}

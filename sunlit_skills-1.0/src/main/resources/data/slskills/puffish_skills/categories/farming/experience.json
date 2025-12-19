@@ -10,7 +10,7 @@
       "type": "puffish_skills:eat_food",
       "data": {
         "variables": {
-          "is_dish": {
+          "is_harvest_food": {
             "operations": [
               {
                 "type": "get_eaten_item_stack"
@@ -18,7 +18,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "item": "#society:dish"
+                  "item": "#slskills:harvest_foods"
                 }
               }
             ]
@@ -26,7 +26,7 @@
         },
         "experience": [
           {
-            "condition": "is_dish",
+            "condition": "is_harvest_food",
             "expression": "20"
           }
         ]

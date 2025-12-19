@@ -1,0 +1,12 @@
+{
+  "unlocked_by_default": true,
+  "title": "Farming",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "netherite_hoe"
+    }
+  },
+  "background": "textures/gui/advancements/backgrounds/husbandry.png",
+  "spent_points_limit": 12
+}

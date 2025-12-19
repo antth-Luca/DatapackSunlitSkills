@@ -1,0 +1,74 @@
+{
+	"normal": {
+		"bidirectional": [
+			[
+				"halazz9no9tuj69h",
+				"hffozx77ny39afuc"
+			],
+			[
+				"hffozx77ny39afuc",
+				"kwza91wdu4sl7xwk"
+			],
+			[
+				"kwza91wdu4sl7xwk",
+				"lv0aeudpbqjne42u"
+			],
+			[
+				"lv0aeudpbqjne42u",
+				"cdo8sww4mya8uqzi"
+			],
+			[
+				"lv0aeudpbqjne42u",
+				"nor5g3sfdkyl4pso"
+			],
+			[
+				"cdo8sww4mya8uqzi",
+				"nrs9akegt3qry2et"
+			],
+			[
+				"nrs9akegt3qry2et",
+				"ml57kpgq73km1d62"
+			],
+			[
+				"ml57kpgq73km1d62",
+				"h4lrzzh35pep0hg3"
+			],
+			[
+				"h4lrzzh35pep0hg3",
+				"bdyntqj791256tjg"
+			],
+			[
+				"bdyntqj791256tjg",
+				"b2sxtrylpusqlqvr"
+			],
+			[
+				"nor5g3sfdkyl4pso",
+				"0eryurvldprgl1ny"
+			],
+			[
+				"0eryurvldprgl1ny",
+				"rm6mvl7mrag4oer2"
+			],
+			[
+				"rm6mvl7mrag4oer2",
+				"0183gs1xq9lt1jp9"
+			],
+			[
+				"0183gs1xq9lt1jp9",
+				"fhjpbl3k02rmtldx"
+			],
+			[
+				"fhjpbl3k02rmtldx",
+				"37pcgymyw3ip6fpo"
+			]
+		]
+	},
+	"exclusive": {
+		"bidirectional": [
+			[
+				"cdo8sww4mya8uqzi",
+				"nor5g3sfdkyl4pso"
+			]
+		]
+	}
+}

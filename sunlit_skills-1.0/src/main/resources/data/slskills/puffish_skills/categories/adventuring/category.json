@@ -1,12 +1,12 @@
 {
   "unlocked_by_default": true,
-  "title": "Farming",
+  "title": "Adventuring",
   "icon": {
     "type": "item",
     "data": {
-      "item": "netherite_hoe"
+      "item": "netherite_sword"
     }
   },
-  "background": "candlelight:textures/block/oak_cabinet_side.png",
+  "background": "textures/block/dripstone_block.png",
   "spent_points_limit": 12
 }
