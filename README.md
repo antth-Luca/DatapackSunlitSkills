@@ -8,14 +8,14 @@ A mod that brings out the skill tree for [Pufferfish’s Skills](https://www.cur
 > This is not an official work and there are adaptations. All credits go to the teams responsible for Society: Sunlit Valley and Pufferfish’s Skills.
 
 ## Available categories and skills:
-* Farming:
+* 🌱Farming:
   * Axe speed;
   * Shovel speed;
   * Movement speed;
   * Harvest buff;
   * Emerald item;
   * Bone meal item.
-* Husbandry:
+* 💕Husbandry:
   * Attack speed;
   * Resistance for tamed entities;
   * Healing;
@@ -23,21 +23,21 @@ A mod that brings out the skill tree for [Pufferfish’s Skills](https://www.cur
   * Feeding items;
   * Wolf armor item;
   * Spawn egg items.
-* Mining:
+* ⛏Mining:
   * Fortune;
   * Pickaxe speed;
   * Melee damage;
   * Emerald item;
   * Raw gold block;
   * Ancient debris block.
-* Fishing:
+* 🎣Fishing:
   * Luck;
   * Respiration;
   * Fishing lure;
   * Fishing luck;
   * Turtle helmet item;
   * Diamond boots with Frost walker enchantment.
-* Adventuring:
+* 🌄Adventuring:
   * Ranged damage;
   * Resistance;
   * Looting;
