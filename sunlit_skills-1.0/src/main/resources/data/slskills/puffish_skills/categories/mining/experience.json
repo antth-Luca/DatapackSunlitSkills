@@ -36,123 +36,6 @@
               }
             ]
           },
-          "alpine_coal_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "meadow:alpine_coal_ore"
-                }
-              }
-            ]
-          },
-          "alpine_copper_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "meadow:alpine_copper_ore"
-                }
-              }
-            ]
-          },
-          "alpine_iron_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "meadow:alpine_iron_ore"
-                }
-              }
-            ]
-          },
-          "alpine_lapis_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "meadow:alpine_lapis_ore"
-                }
-              }
-            ]
-          },
-          "alpine_emerald_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "meadow:alpine_emerald_ore"
-                }
-              }
-            ]
-          },
-          "alpine_gold_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "meadow:alpine_gold_ore"
-                }
-              }
-            ]
-          },
-          "alpine_diamond_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "meadow:alpine_diamond_ore"
-                }
-              }
-            ]
-          },
-          "alpine_redstone_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "meadow:alpine_redstone_ore"
-                }
-              }
-            ]
-          },
-          "alpine_salt_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "meadow:alpine_salt_ore"
-                }
-              }
-            ]
-          },
           "copper_ore": {
             "operations": [
               {
@@ -231,32 +114,6 @@
               }
             ]
           },
-          "sparkstone_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "society:sparkstone_ore"
-                }
-              }
-            ]
-          },
-          "iridium_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "society:iridium_ore"
-                }
-              }
-            ]
-          },
           "emerald_ore": {
             "operations": [
               {
@@ -266,19 +123,6 @@
                 "type": "puffish_skills:test",
                 "data": {
                   "block": "emerald_ore"
-                }
-              }
-            ]
-          },
-          "zinc_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "create:zinc_ore"
                 }
               }
             ]
@@ -387,58 +231,6 @@
               }
             ]
           },
-          "deepslate_zinc_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "create:deepslate_zinc_ore"
-                }
-              }
-            ]
-          },
-          "geode_node": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "society:geode_node"
-                }
-              }
-            ]
-          },
-          "magma_geode_node": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "society:magma_geode_node"
-                }
-              }
-            ]
-          },
-          "omni_geode_node": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "society:omni_geode_node"
-                }
-              }
-            ]
-          },
           "nether_gold_ore": {
             "operations": [
               {
@@ -448,19 +240,6 @@
                 "type": "puffish_skills:test",
                 "data": {
                   "block": "minecraft:nether_gold_ore"
-                }
-              }
-            ]
-          },
-          "nether_bismuth_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "etcetera:nether_bismuth_ore"
                 }
               }
             ]
@@ -477,101 +256,23 @@
                 }
               }
             ]
-          },
-          "silver_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "oreganized:silver_ore"
-                }
-              }
-            ]
-          },
-          "deepslate_silver_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "oreganized:deepslate_silver_ore"
-                }
-              }
-            ]
-          },
-          "lead_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "oreganized:lead_ore"
-                }
-              }
-            ]
-          },
-          "deepslate_lead_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "oreganized:deepslate_lead_ore"
-                }
-              }
-            ]
-          },
-          "deepslate_sparkstone_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "society:deepslate_sparkstone_ore"
-                }
-              }
-            ]
-          },
-          "deepslate_iridium_ore": {
-            "operations": [
-              {
-                "type": "get_mined_block_state"
-              },
-              {
-                "type": "puffish_skills:test",
-                "data": {
-                  "block": "society:deepslate_iridium_ore"
-                }
-              }
-            ]
           }
         },
         "experience": [
           {
-            "condition": "!silk_touch & (coal_ore | copper_ore | alpine_coal_ore)",
+            "condition": "!silk_touch & (coal_ore | copper_ore)",
             "expression": "5"
           },
           {
-            "condition": "!silk_touch & (iron_ore | lapis_ore | alpine_iron_ore | alpine_lapis_ore | alpine_salt_ore)",
+            "condition": "!silk_touch & (iron_ore | lapis_ore)",
             "expression": "6"
           },
           {
-            "condition": "!silk_touch & (gold_ore | alpine_gold_ore | redstone_ore | alpine_redstone_ore | zinc_ore)",
+            "condition": "!silk_touch & (gold_ore | redstone_ore)",
             "expression": "7"
           },
           {
-            "condition": "!silk_touch & (diamond_ore | emerald_ore | alpine_emerald_ore | alpine_diamond_ore )",
+            "condition": "!silk_touch & (diamond_ore | emerald_ore)",
             "expression": "16"
           },
           {
@@ -583,7 +284,7 @@
             "expression": "8"
           },
           {
-            "condition": "!silk_touch & (deepslate_gold_ore | deepslate_redstone_ore | deepslate_zinc_ore)",
+            "condition": "!silk_touch & (deepslate_gold_ore | deepslate_redstone_ore)",
             "expression": "10"
           },
           {
@@ -591,52 +292,8 @@
             "expression": "20"
           },
           {
-            "condition": "!silk_touch & geode_node",
-            "expression": "30"
-          },
-          {
-            "condition": "!silk_touch & magma_geode_node",
-            "expression": "60"
-          },
-          {
-            "condition": "!silk_touch & omni_geode_node",
-            "expression": "90"
-          },
-          {
-            "condition": "!silk_touch & (nether_gold_ore | nether_bismuth_ore | nether_quartz_ore)",
+            "condition": "!silk_touch & (nether_gold_ore | nether_quartz_ore)",
             "expression": "40"
-          },
-          {
-            "condition": "!silk_touch & lead_ore",
-            "expression": "60"
-          },
-          {
-            "condition": "!silk_touch & silver_ore",
-            "expression": "80"
-          },
-          {
-            "condition": "!silk_touch & sparkstone_ore",
-            "expression": "100"
-          },
-          {
-            "condition": "!silk_touch & deepslate_lead_ore",
-            "expression": "120"
-          },
-          {
-            "condition": "!silk_touch & deepslate_silver_ore",
-            "expression": "160"
-          },
-          {
-            "condition": "!silk_touch & deepslate_sparkstone_ore",
-            "expression": "200"
-          },
-          {
-            "condition": "!silk_touch & iridium_ore",
-            "expression": "200"
-          },
-          {
-            "condition": "!silk_touch & deepslate_iridium_ore",
-            "expression": "400"
           }
         ]
       }
