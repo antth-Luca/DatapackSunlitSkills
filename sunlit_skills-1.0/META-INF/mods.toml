@@ -1,6 +1,6 @@
 modLoader = "lowcodefml"
-loaderVersion = "[1,)"
-license = "GNU GENERAL PUBLIC LICENSE - v3"
+loaderVersion = "[40,)"
+license = "GNU GPL v3"
 
 [[mods]]
 modId = "slskills"
@@ -8,6 +8,6 @@ version = "1.0"
 displayName = "Sunlit Skills"
 displayURL="https://github.com/antth-Luca/ModSunlitSkills"
 logoFile="logo.png"
-credits="All credits go to the teams responsible for Society: Sunlit Valley and Pufferfish’s Skills." 
+credits="All credits go to the teams responsible for Society: Sunlit Valley and Pufferfish’s Skills."
 authors = "antthLuca"
 description = "A mod that brings out the skill tree for Pufferfish’s Skills from the Society: Sunlit Valley."

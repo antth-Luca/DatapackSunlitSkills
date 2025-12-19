@@ -1,0 +1,7 @@
+{
+	"pack": {
+		"pack_format": 8,
+		"supported_formats": [0, 999],
+		"description": "A mod that brings out the skill tree for Pufferfish’s Skills from the Society: Sunlit Valley."
+	}
+}
