@@ -1,12 +1,16 @@
 {
   "schemaVersion": 1,
+  "license": "GNU GPL v3",
   "id": "slskills",
   "version": "1.0",
   "name": "Sunlit Skills",
-  "description": "",
+  "contact": {
+    "sources": "https://github.com/antth-luca/ModSunlitSkills"
+  },
+  "icon": "logo.png",
   "authors": [
     "antthLuca"
   ],
-  "license": "GNU GPL v3",
+  "description": "All credits go to the teams responsible for Society: Sunlit Valley and Pufferfish’s Skills.",
   "environment": "*"
 }

@@ -4,9 +4,9 @@
   "icon": {
     "type": "item",
     "data": {
-      "item": "fishing_rod"
+      "item": "minecraft:fishing_rod"
     }
   },
-  "background": "textures/block/sand.png",
+  "background": "minecraft:textures/block/sand.png",
   "spent_points_limit": 12
 }

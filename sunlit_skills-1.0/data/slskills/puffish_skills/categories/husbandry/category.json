@@ -4,9 +4,9 @@
   "icon": {
     "type": "item",
     "data": {
-      "item": "milk_bucket"
+      "item": "minecraft:milk_bucket"
     }
   },
-  "background": "textures/block/hay_bale_side.png",
+  "background": "minecraft:textures/block/hay_block_side.png",
   "spent_points_limit": 12
 }

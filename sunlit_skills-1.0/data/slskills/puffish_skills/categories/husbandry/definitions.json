@@ -5,7 +5,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"effect": "regeneration"
+				"effect": "minecraft:regeneration"
 			}
 		},
 		"rewards": [
@@ -28,7 +28,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"effect": "saturation"
+				"effect": "minecraft:saturation"
 			}
 		},
 		"rewards": [
@@ -57,7 +57,7 @@
 		"icon": {
 			"type": "item",
 			"data": {
-				"item": "hay_bale"
+				"item": "minecraft:hay_block"
 			}
 		},
 		"rewards": [
@@ -96,7 +96,7 @@
 		"icon": {
 			"type": "item",
 			"data": {
-				"item": "lapis_lazuli"
+				"item": "minecraft:lapis_lazuli"
 			}
 		},
 		"rewards": [
@@ -125,7 +125,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"effect": "absorption"
+				"effect": "minecraft:absorption"
 			}
 		},
 		"rewards": [
@@ -161,7 +161,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"effect": "strength"
+				"effect": "minecraft:strength"
 			}
 		},
 		"rewards": [
@@ -190,7 +190,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"effect": "health_boost"
+				"effect": "minecraft:health_boost"
 			}
 		},
 		"rewards": [

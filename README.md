@@ -1,4 +1,4 @@
-![Sunlit Skills Logo](https://github.com/antth-Luca/ModSunlitSkills/blob/main/sunlit_skills-1.0/src/main/resources/logo.png)
+![Sunlit Skills Logo](https://github.com/antth-Luca/ModSunlitSkills/blob/main/sunlit_skills-1.0/logo.png)
 
 # ModSunlitSkills
 

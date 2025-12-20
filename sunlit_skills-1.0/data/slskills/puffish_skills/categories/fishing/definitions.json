@@ -4,7 +4,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"effect": "luck"
+				"effect": "minecraft:luck"
 			}
 		},
 		"rewards": [
@@ -26,7 +26,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"effect": "water_breathing"
+				"effect": "minecraft:water_breathing"
 			}
 		},
 		"rewards": [
@@ -46,10 +46,16 @@
 	"mystical_ocean": {
 		"title": "Mystical Ocean",
 		"description": "Receive the magic of the ocean",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
 		"icon": {
 			"type": "item",
 			"data": {
-				"item": "turtle_helmet"
+				"item": "minecraft:turtle_helmet"
 			}
 		},
 		"rewards": [
@@ -67,16 +73,10 @@
 	"quick_hands": {
 		"title": "Quick Hands",
 		"description": "Time is money... Or rather, fish!",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "challenge"
-			}
-		},
 		"icon": {
 			"type": "item",
 			"data": {
-				"item": "sugar"
+				"item": "minecraft:sugar"
 			}
 		},
 		"rewards": [
@@ -105,7 +105,7 @@
 		"icon": {
 			"type": "item",
 			"data": {
-				"item": "blue_ice"
+				"item": "minecraft:blue_ice"
 			}
 		},
 		"rewards": [
@@ -132,7 +132,7 @@
 		"icon": {
 			"type": "item",
 			"data": {
-				"item": "nautilus_shell"
+				"item": "minecraft:nautilus_shell"
 			}
 		},
 		"rewards": [
@@ -160,7 +160,7 @@
 		"icon": {
 			"type": "item",
 			"data": {
-				"item": "prismarine_shard"
+				"item": "minecraft:prismarine_shard"
 			}
 		},
 		"rewards": [

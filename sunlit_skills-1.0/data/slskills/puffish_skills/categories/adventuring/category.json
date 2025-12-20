@@ -4,9 +4,9 @@
   "icon": {
     "type": "item",
     "data": {
-      "item": "netherite_sword"
+      "item": "minecraft:netherite_sword"
     }
   },
-  "background": "textures/block/dripstone_block.png",
+  "background": "minecraft:textures/block/dripstone_block.png",
   "spent_points_limit": 12
 }

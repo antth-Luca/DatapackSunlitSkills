@@ -2,7 +2,7 @@
   "experience_per_level": {
     "type": "values",
     "data": {
-      "values": [250, 500, 1000, 2000, 5000, 6000, 8000, 10000, 13000, 16000, 20000, 25000]
+      "values": [250, 500, 1000, 2000, 5000, 6000, 8000, 10000, 13000, 16000, 20000]
     }
   },
   "sources": [
@@ -31,7 +31,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "coal_ore"
+                  "block": "minecraft:coal_ore"
                 }
               }
             ]
@@ -44,7 +44,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "copper_ore"
+                  "block": "minecraft:copper_ore"
                 }
               }
             ]
@@ -57,7 +57,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "iron_ore"
+                  "block": "minecraft:iron_ore"
                 }
               }
             ]
@@ -70,7 +70,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "gold_ore"
+                  "block": "minecraft:gold_ore"
                 }
               }
             ]
@@ -83,7 +83,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "redstone_ore"
+                  "block": "minecraft:redstone_ore"
                 }
               }
             ]
@@ -96,7 +96,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "lapis_ore"
+                  "block": "minecraft:lapis_ore"
                 }
               }
             ]
@@ -109,7 +109,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "diamond_ore"
+                  "block": "minecraft:diamond_ore"
                 }
               }
             ]
@@ -122,7 +122,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "emerald_ore"
+                  "block": "minecraft:emerald_ore"
                 }
               }
             ]
@@ -135,7 +135,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "deepslate_coal_ore"
+                  "block": "minecraft:deepslate_coal_ore"
                 }
               }
             ]
@@ -148,7 +148,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "deepslate_copper_ore"
+                  "block": "minecraft:deepslate_copper_ore"
                 }
               }
             ]
@@ -161,7 +161,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "deepslate_iron_ore"
+                  "block": "minecraft:deepslate_iron_ore"
                 }
               }
             ]
@@ -174,7 +174,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "deepslate_gold_ore"
+                  "block": "minecraft:deepslate_gold_ore"
                 }
               }
             ]
@@ -187,7 +187,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "deepslate_redstone_ore"
+                  "block": "minecraft:deepslate_redstone_ore"
                 }
               }
             ]
@@ -200,7 +200,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "deepslate_lapis_ore"
+                  "block": "minecraft:deepslate_lapis_ore"
                 }
               }
             ]
@@ -213,7 +213,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "deepslate_diamond_ore"
+                  "block": "minecraft:deepslate_diamond_ore"
                 }
               }
             ]
@@ -226,7 +226,7 @@
               {
                 "type": "puffish_skills:test",
                 "data": {
-                  "block": "deepslate_emerald_ore"
+                  "block": "minecraft:deepslate_emerald_ore"
                 }
               }
             ]
